@@ -1,18 +1,16 @@
-# Exemplo de Criação de Tela de Login de Usuario AdminLTE
+# Criação de Tela de Login de Usuario AdminLTE
 
-Exemplo de utilização do AdminLte com criação de Conta de Usuário em MVC com banco de dados Mysql acessando por dicionário de dados
+Exemplo de utilização do AdminLte com criação de formulário de Conta de Usuário em MVC com banco de dados Mysql acessando por dicionário de dados, utilizando AdminLTE
 
 * Template Responsivo AdminLTE 3.2 - rc
-
 
 ## Disponivel em (https://adminlte.io/ )
 
   - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/archive/refs/tags/v3.2.0-rc.zip)
 
-
 ## Requisitos
 
-Baixar Pacote de Distribuição de Download da Biblioteca e descompactar
+Baixar Pacote de Distribuição de Download da biblioteca e descompactar
 
 Criar uma nova pasta chamada adminlte na raiz do projeto
 
@@ -21,18 +19,16 @@ Criar uma nova pasta chamada adminlte na raiz do projeto
 
 # O que você vai encontrar neste projeto
 
-- **AdminLTE** - Layout Responsivo JavaScript e uso de biblioteca. 
+- **AdminLTE** - Layout Responsivo JavaScript e uso de bibliotecas (Plugins). 
 - **Dicionário de Dados** - Contexto definido realizado manualmente com T-SQL.
-
 
 ## Execução da aplicação
 
 Para executar a aplicação é necessário a execução do Script do MySql. 
 
-
 ## String de conexão do banco
 
-Se já possuir um banco de dados MySql e deseja utilizá-lo na aplicação, modifique a string de conexão no arquivo **Web.config**, no trecho indicado:
+Modifique a string de conexão no arquivo **Web.config**, no trecho indicado:
 
 ```bash
 ...
@@ -41,4 +37,4 @@ Se já possuir um banco de dados MySql e deseja utilizá-lo na aplicação, modi
 
 ```
 
-O script para criação da tabela do exemplo e alguns dados iniciais encontra-se na pasta **Database**.
+O script para criação da tabela do exemplo encontra-se na pasta **Database**.
