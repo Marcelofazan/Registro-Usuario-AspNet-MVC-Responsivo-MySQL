@@ -1,0 +1,6 @@
+Baixar Pacote de Distribuição de Download da Biblioteca e descompactar
+
+https://github.com/ColorlibHQ/AdminLTE/archive/refs/tags/v3.2.0-rc.zip
+
+Nessa Pasta colocar os arquivos de AdminLTE-3.2.0-rc /dist -> Para as pastas css, img e js e colocar dentro da pasta adminlte
+Nessa Pasta colocar os arquivos de AdminLTE--3.2.0-rc /plugins -> Para as pasta plugins e colar dentro da pasta adminlte
