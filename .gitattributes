@@ -1,0 +1,5 @@
+ERPSimplesLTE/Scripts/* linguist-language=C#
+ERPSimplesLTE/Content/* linguist-language=C#
+pasta/arquivo.js linguist-language=C#
+*.cshtml linguist-language=C#
+* text=auto
