@@ -12,10 +12,16 @@ Exemplo de utilização do AdminLte com Registro de Usuário em MVC com banco de
 
 Baixar Pacote de Distribuição de Download da biblioteca e descompactar
 
-Criar uma nova pasta chamada adminlte na raiz do projeto
-
+Criar uma nova pasta chamada adminlte no Solution ERPSimples
 - Na Pasta AdminLTE-3.2.0-rc /dist -> Copiar as pastas css, img e js e Colar dentro da pasta adminlte
-- Na Pasta AdminLTE-3.2.0-rc /plugins -> Copiar as pasta plugins e Colar dentro da pasta adminlte
+- Na Pasta AdminLTE-3.2.0-rc /plugins -> Copiar a pasta plugins e Colar dentro da pasta adminlte
+
+Outra forma: 
+Criar uma nova pasta chamada adminlte dentro da pasta /dist no pacote de distribuição 
+Copiar as pastas img / css / js / plugins
+Colar as pastas img / css / js / plugins dentro de adminlte
+Arrastar a pasta adminlte pelo Explorer em cima de Solution ERPSimples e todas pastas criaram automático. 
+
 
 # O que você vai encontrar neste projeto
 
