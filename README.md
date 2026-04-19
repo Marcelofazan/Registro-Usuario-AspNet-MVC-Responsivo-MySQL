@@ -1,6 +1,6 @@
 # Registro-Usuario-AspNet-MVC-Responsivo-MySQL
 
-Exemplo de utilização do AdminLte com Registro de Usuário em MVC com banco de dados Mysql acessando por dicionário de dados.
+Exemplo de utilização do AdminLTE com Registro de Usuário em MVC com banco de dados Mysql.
 
 ## AdminLTE em (https://adminlte.io/ )
 
