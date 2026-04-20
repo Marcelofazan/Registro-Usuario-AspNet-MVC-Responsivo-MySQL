@@ -16,7 +16,7 @@ Criar uma nova pasta chamada adminlte no Solution do Projeto
 - Acessar o diretorio na pasta AdminLTE-3.2.0-rc /dist ->  Arrastar as pastas (css), (img) e (js) e Colar dentro da pasta adminlte
 - Acessar AdminLTE-3.2.0-rc /plugins -> Arrastar a pasta (plugins) e Colar dentro da pasta adminlte
 
-Ficara com a seguinte estrutura 
+Ficara com a seguinte estrutura:  
 
 **Solution** Pasta na Raiz do Projeto 
 ```
