@@ -28,7 +28,7 @@ Ficara com a seguinte estrutura:
 ```
 
 
-# O que você vai encontrar neste projeto
+## O que você vai encontrar neste projeto
 
 - **AdminLTE** - Layout Responsivo JavaScript e uso de bibliotecas (Plugins). 
 - **Dicionário de Dados** - Contexto definido realizado manualmente com T-SQL.
@@ -37,7 +37,7 @@ Ficara com a seguinte estrutura:
 
 Para executar a aplicação é necessário a execução do Script do MySql. 
 
-## String de conexão do banco
+### String de conexão do banco
 
 Modifique a string de conexão no arquivo **Web.config**, no trecho indicado:
 
