@@ -8,7 +8,7 @@ Exemplo de utilização do AdminLTE com Registro de Usuário em MVC com banco de
 
   - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/archive/refs/tags/v3.2.0-rc.zip)
 
-## Requisitos
+## Requisitos e Detalhe do uso do AdminLTE
 
 Baixar Pacote de Distribuição de Download da biblioteca e descompactar
 
