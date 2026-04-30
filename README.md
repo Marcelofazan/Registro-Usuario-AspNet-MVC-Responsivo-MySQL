@@ -32,7 +32,7 @@ adminlte
 ## O que você vai encontrar neste projeto
 
 - **AdminLTE** - Layout Responsivo JavaScript e uso de bibliotecas (Plugins). 
-- **Dicionário de Dados** - Contexto definido realizado manualmente com T-SQL.
+- **Dicionário de Dados** -Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados.
 
 ## Execução da aplicação
 
